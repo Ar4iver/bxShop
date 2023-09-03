@@ -1,0 +1,65 @@
+.header_top_nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &_phone {
+    display: flex;
+    align-items: center;
+
+    a {
+      display: flex;
+      text-decoration: none;
+      color: var(--secondary-color-2);
+      transition: color 0.3s ease; /* Добавлено для плавности изменения цвета */
+
+      &:hover {
+        color: var(--secondary-color-2-light); /* Цвет при наведении */
+      }
+    }
+
+    a:hover .phone-icon svg path {
+      fill: #FFBD59;
+    }
+
+
+    span {
+      display: flex;
+
+      svg path {
+        transition: fill 0.3s ease; /* Добавлено для плавности изменения цвета */
+        fill: #FF862F;
+      }
+    }
+  }
+
+  &_container {
+    display: flex;
+
+    ul {
+      list-style: none;
+      display: flex;
+      gap: 64px;
+
+      li {
+        a {
+          text-decoration: none;
+
+
+          span {
+            color: var(--secondary-grey);
+            font-size: 14px;
+            font-weight: 400;
+            transition: color 0.3s ease; /* Добавлено для плавности изменения цвета */
+          }
+        }
+
+        a:hover span {
+          color: var(--primary-color);
+        }
+
+      }
+    }
+  }
+
+}

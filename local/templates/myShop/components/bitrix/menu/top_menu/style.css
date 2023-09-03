@@ -1,0 +1,51 @@
+@charset "UTF-8";
+.header_top_nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_top_nav_phone {
+  display: flex;
+  align-items: center;
+}
+.header_top_nav_phone a {
+  display: flex;
+  text-decoration: none;
+  color: var(--secondary-color-2);
+  transition: color 0.3s ease; /* Добавлено для плавности изменения цвета */
+}
+.header_top_nav_phone a:hover {
+  color: var(--secondary-color-2-light); /* Цвет при наведении */
+}
+.header_top_nav_phone a:hover .phone-icon svg path {
+  fill: #FFBD59;
+}
+.header_top_nav_phone span {
+  display: flex;
+}
+.header_top_nav_phone span svg path {
+  transition: fill 0.3s ease; /* Добавлено для плавности изменения цвета */
+  fill: #FF862F;
+}
+.header_top_nav_container {
+  display: flex;
+}
+.header_top_nav_container ul {
+  list-style: none;
+  display: flex;
+  gap: 64px;
+}
+.header_top_nav_container ul li a {
+  text-decoration: none;
+}
+.header_top_nav_container ul li a span {
+  color: var(--secondary-grey);
+  font-size: 14px;
+  font-weight: 400;
+  transition: color 0.3s ease; /* Добавлено для плавности изменения цвета */
+}
+.header_top_nav_container ul li a:hover span {
+  color: var(--primary-color);
+}
+
+/*# sourceMappingURL=style.scss.map */

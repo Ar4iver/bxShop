@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mi2478.ru" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="mi2478.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bitrix/www" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/bitrix/www/upload" />
+            <excludedPath path="/home/bitrix/www/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
