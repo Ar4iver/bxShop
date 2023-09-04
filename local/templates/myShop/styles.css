@@ -24,4 +24,20 @@
   align-items: center;
 }
 
+.container.bottom_header_content {
+  display: grid;
+  grid-template-columns: 10fr 2fr;
+}
+
+.container.bottom_header_content > div:first-child {
+  grid-column: 1/2;
+}
+
+.container.bottom_header_content > div:last-child {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  flex-direction: row-reverse;
+}
+
 /*# sourceMappingURL=styles.css.map */
