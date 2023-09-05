@@ -2,17 +2,19 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/catalog.section/section/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/catalog.section/section/script.min.min.js" />
         <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/main_menu/script.min.js" />
         <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/top_menu/script.min.js" />
         <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket.line/top_header_basket/script.min.js" />
-        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket.line/top_header_basket/script.min.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/catalog.section/section/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/catalog.section/section/script.min.min.js" />
       <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/main_menu/script.min.js" />
       <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/top_menu/script.min.js" />
       <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket.line/top_header_basket/script.min.js" />
-      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket.line/top_header_basket/script.min.min.js" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
