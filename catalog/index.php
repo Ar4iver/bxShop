@@ -15,7 +15,7 @@ $APPLICATION->SetTitle("Каталог");
 		"AJAX_OPTION_HISTORY" => "N",
 		"AJAX_OPTION_JUMP" => "N",
 		"AJAX_OPTION_STYLE" => "Y",
-		"BASKET_URL" => "/personal/basket.php",
+		"BASKET_URL" => "/personal/cart/",
 		"BIG_DATA_RCM_TYPE" => "personal",
 		"CACHE_FILTER" => "N",
 		"CACHE_GROUPS" => "Y",
@@ -129,6 +129,7 @@ $APPLICATION->SetTitle("Каталог");
 		"PAGE_ELEMENT_COUNT" => "30",
 		"PARTIAL_PRODUCT_PROPERTIES" => "N",
 		"PRICE_CODE" => array(
+			0 => "BASE",
 		),
 		"PRICE_VAT_INCLUDE" => "Y",
 		"PRICE_VAT_SHOW_VALUE" => "N",
@@ -199,6 +200,26 @@ $APPLICATION->SetTitle("Каталог");
 		"USE_SALE_BESTSELLERS" => "Y",
 		"USE_STORE" => "N",
 		"COMPONENT_TEMPLATE" => ".default",
+		"PRODUCT_DISPLAY_MODE" => "N",
+		"OFFER_ADD_PICT_PROP" => "-",
+		"TOP_OFFERS_FIELD_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"LIST_OFFERS_FIELD_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"DETAIL_OFFERS_FIELD_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"DETAIL_MAIN_BLOCK_OFFERS_PROPERTY_CODE" => array(
+		),
+		"OFFERS_SORT_FIELD" => "sort",
+		"OFFERS_SORT_ORDER" => "asc",
+		"OFFERS_SORT_FIELD2" => "id",
+		"OFFERS_SORT_ORDER2" => "desc",
 		"SEF_URL_TEMPLATES" => array(
 			"sections" => "",
 			"section" => "#SECTION_CODE_PATH#/",

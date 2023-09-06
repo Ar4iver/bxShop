@@ -7,6 +7,21 @@
         <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/main_menu/script.min.js" />
         <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/top_menu/script.min.js" />
         <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket.line/top_header_basket/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/action-pool.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/component.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/component.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/filter.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/mustache.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/order_ajax.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/order_ajax.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/google_maps.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/google_maps.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/yandex_maps.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/yandex_maps.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.personal.order.list/orders_list/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.personal.order.list/orders_list/script.min.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -15,6 +30,21 @@
       <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/main_menu/script.min.js" />
       <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/menu/top_menu/script.min.js" />
       <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket.line/top_header_basket/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/action-pool.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/component.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/component.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/filter.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.basket.basket/cart/js/mustache.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/order_ajax.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/order_ajax.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/google_maps.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/google_maps.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/yandex_maps.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.order.ajax/order/scripts/yandex_maps.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.personal.order.list/orders_list/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/myShop/components/bitrix/sale.personal.order.list/orders_list/script.min.min.js" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
